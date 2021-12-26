@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on PHP projects and Web Development stuff.
 - 🤔 I’m looking for help in learning about Web Development and PHP specially (Laravel - Vue) stacks.
 - 💬 Ask me about anything and everything related to computer science, we can share experiences
-- 📫 Reach me via: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:mohamedfawzy.dev@gmail.com)
+- 📫 Reach me via: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:moemengaballa@gmail.com)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/moemengaballah/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
