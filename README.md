@@ -1,6 +1,6 @@
 # Hi, I'm Moemen 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/Moemen-Gaballah/Moemen-Gaballah/main/Moemen-gaballa-bio.png" alt="banner that says Moemen Gaballa - software engineer, passionate about Backend, contributing to open-source more approachable, creating technology to elevate people, and building community.">
+<img src="https://github.com/Moemen-Gaballah/Moemen-Gaballah/blob/main/Moemen-Gaballa-Bio-01.png?raw=true" alt="banner that says Moemen Gaballa - software engineer, passionate about Backend, contributing to open-source more approachable, creating technology to elevate people, and building community. moemen gaballa image cartoon">
 
 <!--
 <h1 align="Center">  Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px; !important" width="40px; !important" /> , I'm Mo'men Gaballah <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> ✨  </h1>
