@@ -12,11 +12,11 @@
 **Moemen-Gaballah/Moemen-Gaballah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a PHP developer at Expert Apps.
-- 🌱 I’m currently impove docker & UnitTest.
+- 🔭 I’m currently working as a Senior PHP developer at Expert Apps.
+- 🌱 I’m currently practicing docker & UnitTest.
 - 👯 I’m looking to collaborate on PHP projects and Web Development stuff.
-- 🤔 I’m currently learning about Web Development and specially (distributed systems).
-- 💬 Ask me about anything and everything related to computer science, we can share experiences
+- 🤔 I’m currently learning about Web Development especially (distributed systems).
+- 💬 Ask me about anything, everything related to computer science, and we can share experiences
 - 📫 Reach me via: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:moemengaballa@gmail.com)
 
 <p align="center">
